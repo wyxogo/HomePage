@@ -16,22 +16,22 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: ''
+twitter: 'WangYuexin8'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: wmoonxin@gmail.com
+phone: +86 15623036320
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: City South Sreet
+  city: JinZhou
+  region: JZ
+  postcode: '442600'
+  country: CHAIN
+  country_code: CH
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '30.3371'
+  longitude: '112.2105'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   - 'Monday 10:00 to 13:00'
@@ -40,7 +40,7 @@ appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: WangYuexin8
     link: 'https://twitter.com/Twitter'
   - icon: skype
     icon_pack: fab
@@ -77,8 +77,8 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
-diagram: false
+math: true
+diagram: true
 privacy_pack: false
 edit_page:
   repo_url: ''
