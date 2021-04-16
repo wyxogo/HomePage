@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: Python, Go, C
   icon: code
-  icon_pack: fab
+  icon_pack: fas
   name: Programing
 - description: TensorFlow, Pytorch<br>Common ML&DL Models
   icon: brain
