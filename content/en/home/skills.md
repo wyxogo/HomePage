@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Python, Go, C
+- description:Linux, Python, Go, C
   icon: code
   icon_pack: fas
   name: Programing
