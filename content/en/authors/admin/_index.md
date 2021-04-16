@@ -11,7 +11,7 @@ role: Undergraduate Student of Artificial Intelligence
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Yangtze University
-  url: https://www.yangtzeu.edu.cn/
+  url: www.yangtzeu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
