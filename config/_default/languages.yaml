@@ -5,18 +5,37 @@
 # Default language
 en:
   languageCode: en-us
+  contentDir: content/en
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+zh:
+ languageCode: zh
+ contentDir: content/zh
+ title: 主页
+ params:
+   description: Site description in Chinese...
+ menu:
+  main:
+  - name: 关于
+    url: '#about'
+    weight: 10
+  - name: 技能
+    url: '#skills'
+    weight: 20
+  - name: 文章
+    url: '#posts'
+    weight: 30
+  - name: 博客
+    url: 'blog.aimoon.top'
+    weight: 40
+  - name: 项目
+    url: '#projects'
+    weight: 50
+  # - name: 论文
+  #   url: '#featured'
+  #   weight: 50
+  - name: 联系我
+    url: '#contact'
+    weight: 60
