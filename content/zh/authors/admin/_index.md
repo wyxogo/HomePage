@@ -43,25 +43,28 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+- icon: blogger-b
+  icon_pack: fab
+  link: https://blog.aimoon.top/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/xmoon5
+- icon: telegram-plane
+  icon_pack: fab
+  link: https://t.me/wmoonx
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/WangYuexin8
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/xmoon5
-- icon: blogger-b
-  icon_pack: fab
-  link: https://blog.aimoon.top/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: graduation-cap
-  icon_pack: fas
-  link: media/resume.pdf
+# - icon: graduation-cap
+#   icon_pack: fas
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
