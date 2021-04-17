@@ -28,7 +28,7 @@ zh:
     url: '#posts'
     weight: 30
   - name: 博客
-    url: 'blog.aimoon.top'
+    url: 'https://blog.aimoon.top'
     weight: 40
   - name: 项目
     url: '#projects'
