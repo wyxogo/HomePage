@@ -17,7 +17,7 @@ main:
     url: '#projects'
     weight: 40
   - name: Blog
-    url: 'blog.aimoon.top'
+    url: 'https://blog.aimoon.top'
     weight: 50
   # - name: Talks
   #   url: '#talks'
