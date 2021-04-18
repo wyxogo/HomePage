@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wang Yuexin
+title: Yasin Wang
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
   url: www.yangtzeu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include deep learning, artificial intelligence, computer vision and website development.
 
 # Interests to show in About widget
 interests:
@@ -42,7 +42,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'https://wmoonxin@gmail.com'
+  # link: '<a href="wmoonxin@gmail.com">wmoonxin@gmail.com</a>'
 - icon: blogger-b
   icon_pack: fab
   link: https://blog.aimoon.top/

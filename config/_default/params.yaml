@@ -22,26 +22,11 @@ twitter: 'WangYuexin8'
 
 email: wmoonxin@gmail.com
 phone: +86 15623036320
-address:
-  street: City South Sreet
-  city: JinZhou
-  region: JZ
-  postcode: '442600'
-  country: CHAIN
-  country_code: CH
-coordinates:
-  latitude: '30.3371'
-  longitude: '112.2105'
-# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-#office_hours:
-#  - 'Monday 10:00 to 13:00'
-#  - 'Wednesday 09:00 to 10:00'
-#appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
+  - icon: telegram-plane
     icon_pack: fab
-    name: WangYuexin8
-    link: 'https://twitter.com/Twitter'
+    name: Yasin
+    link: 'https://t.me/wmoonx'
   #- icon: skype
   #  icon_pack: fab
   #  name: Skype Me
@@ -54,6 +39,23 @@ contact_links:
  #   icon_pack: fas
  #   name: Discuss on Forum
  #   link: 'https://discourse.gohugo.io'
+# address:
+#   street: City South Sreet
+#   city: JinZhou
+#   region: JZ
+#   postcode: '442600'
+#   country: CHAIN
+#   country_code: CH
+
+coordinates:
+  latitude: '30.3371'
+  longitude: '112.2105'
+# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+#appointment_url: 'https://calendly.com'
+
 
 # Site header
 
@@ -100,12 +102,12 @@ section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
   notice: 'This work is licensed under {license}'
-abstract_length: 135
+abstract_length: 120
 plugins_js: []
 avatar:
   gravatar: false
@@ -121,7 +123,7 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: ''
+  provider: 'disqus'
   commentable:
     post: true
     book: true
@@ -129,7 +131,7 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: ''
+    shortname: 'Yasin'
     show_count: true
   commento:
     url: ''
