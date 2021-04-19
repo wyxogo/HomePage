@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'https://wmoonxin@gmail.com'
+  link: 'mailto:wmoonxin@gmail.com'
 - icon: blogger-b
   icon_pack: fab
   link: https://blog.aimoon.top/
