@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'https://wmoonxin@gmail.com'
+  link: 'mailto:wmoonxin@gmail.com'
   # link: '<a href="wmoonxin@gmail.com">wmoonxin@gmail.com</a>'
 - icon: blogger-b
   icon_pack: fab
