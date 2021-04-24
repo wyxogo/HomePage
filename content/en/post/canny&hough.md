@@ -10,8 +10,8 @@ tags:
     - 算法
 categories: 
     - 计算机视觉
-featuredImage: "https://img-blog.csdnimg.cn/20200729181503649.png"
-featuredImagePreview: "https://img-blog.csdnimg.cn/20200729181503649.png"
+authors: 
+    - admin
 ---
 
 

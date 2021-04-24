@@ -7,6 +7,8 @@ tags:
     - activation
     - function
 categories: ["TF2.1学习笔记"]
+authors: 
+    - admin
 ---
 ### 常见函数
 

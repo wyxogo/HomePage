@@ -2,18 +2,19 @@
 title: "经典算法：Batch Normalization"
 date: 2020-08-13T12:50:45+08:00
 
-
-
-summary: 在[**卷积网络六大模块**](https://aimoon.top/2020/06/convolutional1/#%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)中的**BN**（**批批标准化**）所指的就是Batch Normalization，该算法15年提出，现在已经成为深度学习中经常使用的技术，可以极大的提高网络的处理能力。
-
+summary: 在[**卷积网络六大模块**](https://aimoon.top/en/post/convolutional1/#%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)中的**BN**（**批批标准化**）所指的就是Batch Normalization，该算法15年提出，现在已经成为深度学习中经常使用的技术，可以极大的提高网络的处理能力。
 
 tags: 
     - Batch Normalization
     - 算法
+
+
 categories: 
     - 深度学习
-featuredImage: "https://img-blog.csdnimg.cn/20200813125930659.png"
-featuredImagePreview: "https://img-blog.csdnimg.cn/20200813125930659.png"
+
+
+authors: 
+    - admin
 ---
 
 

@@ -6,6 +6,9 @@ tags:
     - 算法
 categories: 
     - 优化方法
+
+authors: 
+    - admin
 ---
 
 

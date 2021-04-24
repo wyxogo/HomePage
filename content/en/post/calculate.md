@@ -6,7 +6,8 @@ tags:
     - calculate
     - 神经网络
 categories: ["TF2.1学习笔记"]
-
+authors: 
+    - admin
 ---
 
 前面已经学习了有关TensorFlow的一些常用库，以及相关数据的处理方式，下面就是有关神经网络计算的学习笔记。主要学习的资料西安科技大学：[神经网络与深度学习——TensorFlow2.0实战](https://www.icourse163.org/learn/XUST-1206363802#/learn/announce)，北京大学：[人工智能实践Tensorflow笔记](https://www.icourse163.org/learn/PKU-1002536002#/learn/announce)
