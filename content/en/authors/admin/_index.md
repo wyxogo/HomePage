@@ -47,7 +47,7 @@ social:
   link: https://blog.aimoon.top/
 - icon: github
   icon_pack: fab
-  link: https://github.com/xmoon5
+  link: https://github.com/aiyasin
 - icon: telegram-plane
   icon_pack: fab
   link: https://t.me/wmoonx

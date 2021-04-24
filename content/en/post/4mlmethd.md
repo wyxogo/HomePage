@@ -252,7 +252,7 @@ f.close()
 >
 > Seaborn文档：[https://seaborn.pydata.org/generated/seaborn.heatmap.html](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
 >
-> - 项目地址: [https://github.com/xmoon5/ImaClassification](https://github.com/xmoon5/ImaClassification)
+> - 项目地址: [https://github.com/aiyasin/ImaClassification](https://github.com/aiyasin/ImaClassification)
 
 
 
