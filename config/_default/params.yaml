@@ -106,7 +106,7 @@ copyright_license:
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: '{license} <a href="https://beian.miit.gov.cn/" target="_blank"> 鄂ICP备2021007298号-1 </a>'
 abstract_length: 120
 plugins_js: []
 avatar:
